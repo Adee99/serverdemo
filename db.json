@@ -1,0 +1,32 @@
+[
+    {
+    "id": 1,
+    "employee_salary": 151514,
+    "employee_age": 22,
+    "profile_code": 90
+    },
+    {
+    "id": 2,
+    "employee_salary": 122624,
+    "employee_age": 36,
+    "profile_code": 91
+    },
+    {
+    "id": 3,
+    "employee_salary": 111222,
+    "employee_age": 28,
+    "profile_code": 92
+    },
+    {
+    "id": 4,
+    "employee_salary": 196248,
+    "employee_age": 44,
+    "profile_code": 93
+    },
+    {
+    "id": 5,
+    "employee_salary": 176542,
+    "employee_age": 64,
+    "profile_code": 94
+    }
+    ]
